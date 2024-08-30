@@ -10,8 +10,8 @@
 #include <DHT11.h>
 #include <LiquidCrystal_I2C.h>
 
-char ssid[] = "Sujal's Phone";
-char pass[] = "mittal@2003";
+char ssid[] = "realme 5i";
+char pass[] = "yaduvanshi";
 
 DHT11 dht11(D4);
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Initialize the LCD with I2C address 0x27, 16 columns, and 2 rows
